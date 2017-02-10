@@ -1,1 +1,1 @@
-# jinxistock.github.com
+# stock
